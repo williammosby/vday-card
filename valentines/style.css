@@ -1,0 +1,28 @@
+header{
+    /* background-color: #80CBC4; */
+    background-image: url("card.webp");
+    background-size: 100% 100%;  /*stretch the image to 100% width and 100% height*/
+    background-color: #40407A;
+    color: #FFF;
+    font-size: 120%;
+    /* margin-top: 50px; */
+    min-height: 200px;
+    text-align: center;
+}
+header h1{
+    padding: 4em;
+}
+body{
+    margin: 0;
+    background-color: #ff00c8;
+    color:#ffffff;
+    font-family:cursive;
+}
+#wrapper{   
+    padding: 2em;
+    margin: auto;
+    width:80%;
+    background-color: #F5F5F5;
+    
+    
+}
